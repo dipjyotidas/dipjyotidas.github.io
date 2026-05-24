@@ -4,34 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-experience",
-          title: "experience",
+          title: "Experience",
           description: "13+ years of AI/ML/GenAI across enterprise and startup environments",
           section: "Navigation",
           handler: () => {
             window.location.href = "/experience/";
           },
         },{id: "nav-speaking",
-          title: "speaking",
+          title: "Speaking",
           description: "Conference talks and session leadership on production AI systems",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
           },
         },{id: "nav-community",
-          title: "community",
+          title: "Community",
           description: "Mentoring, judging, and giving back to the AI/ML community",
           section: "Navigation",
           handler: () => {
             window.location.href = "/community/";
           },
         },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
