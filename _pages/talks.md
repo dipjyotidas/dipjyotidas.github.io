@@ -12,7 +12,8 @@ nav_order: 3
 ### AIM 2026 — San Francisco
 
 **Session Chair and Speaker**
-_Topic: Production-scale Agentic AI Systems in the Enterprise_
+
+_Topic: Building Production-Scale Agentic AI Systems: Architecture, Orchestration, and Real-World Lessons_
 
 <div class="video-container">
   <iframe width="560" height="315"
@@ -27,7 +28,7 @@ _Topic: Production-scale Agentic AI Systems in the Enterprise_
 
 ### Ai4 2021 — Speaker
 
-_Topic: AI/ML in Enterprise_
+_Topic: Gaussian Mixture model in Enterprise to Acquire New Customers in Non Native Territories_
 
 <div class="video-container">
   <iframe width="560" height="315"
@@ -41,6 +42,8 @@ _Topic: AI/ML in Enterprise_
 ---
 
 ### RE.WORK AI — Speaker
+
+_Topic: Gaussian Mixture model to Acquire New Customers in Non Native Territories_
 
 <div class="video-container">
   <iframe width="560" height="315"

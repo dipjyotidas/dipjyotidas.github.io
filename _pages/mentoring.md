@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Mentoring
 
-### Great Learning / UT Austin — AIML Program Mentor
+### Great Learning in partnership with UT Austin — AIML PG Program Mentor
 
 Selected after a technical demo and interview process to mentor a cohort of
 ~20 working professionals in the Post-Graduate AI/ML program. Conducted weekly
@@ -23,17 +23,16 @@ capstone projects. Guided practical Python and ML implementations.
 ### Pinnacle Solutions Group Hackathon 2026 — Judge
 
 _Charlotte, NC_
-Evaluated AI and software engineering projects in the AI-Augmented Engineering
-Excellence category. Reviewed demo quality, technical execution, AI-assisted
-development practices, innovation, and implementation.
+
+Evaluated AI and software engineering demos, reviewed technical execution, AI-assisted development practices, innovation, and implementation approach and implementation.
 
 [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7459010153804152832/)
 
+### Society of Women Engineers (SWE) — Scholarship Reviewer
+
+Reviewed and evaluated competitive undergraduate STEM scholarship applications, including AI/ML projects, technical achievements, leadership, and societal impact, using a structured scoring rubric for 20 applicants.
+
 ### Technovation Girls — Judge _(in progress)_
-
-### Society of Women Engineers (SWE) India — Scholarship Reviewer
-
-Reviewed and evaluated undergraduate STEM scholarship applications.
 
 ---
 
