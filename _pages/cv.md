@@ -10,6 +10,7 @@ nav_order: 2
 ## Work Experience
 
 ### Gen AI Architect — Ascendion, Charlotte NC
+
 **Oct 2025 – Present**
 
 - Led architecture and deployment of a unified Agentic AI chatbot on AWS EKS serving 80,000+ field technicians at Charter Communications
@@ -20,6 +21,7 @@ nav_order: 2
 ---
 
 ### AI Architect/Engineer — CGI Technologies, Charlotte NC
+
 **June 2023 – Oct 2025**
 
 - Built CGI Pulse AI GenAI platform with self-hosted LLMs (Llama/Mixtral via vllm) and advanced RAG on Azure Kubernetes Service
@@ -30,6 +32,7 @@ nav_order: 2
 ---
 
 ### Staff Data Scientist — One Concern, Menlo Park CA
+
 **Nov 2021 – May 2023**
 
 Climate risk analytics startup. Delivered Resilience and Business Interruption scores for US/Japan commercial properties integrated into Swiss RE CatNet and Willis Tower Watson platforms.
@@ -37,6 +40,7 @@ Climate risk analytics startup. Delivered Resilience and Business Interruption s
 ---
 
 ### Data Scientist II — Duke Energy, Charlotte NC
+
 **Mar 2019 – Nov 2021**
 
 - Built time-series forecasting models (LSTM, CNN1D, SARIMA) for operational planning
@@ -46,6 +50,7 @@ Climate risk analytics startup. Delivered Resilience and Business Interruption s
 ---
 
 ### Data Scientist II — Brighthouse Financial, Charlotte NC
+
 **June 2017 – Jan 2019**
 
 - Built 3-layer stacked ensemble Propensity model for annuity product targeting
@@ -55,6 +60,7 @@ Climate risk analytics startup. Delivered Resilience and Business Interruption s
 ---
 
 ### Decision Specialist — R+L Carriers, Ocala FL
+
 **March 2013 – June 2017**
 
 - Built Time Series Forecasting models (Holt-Winters, ETS, ARIMA) for revenue and shipment prediction

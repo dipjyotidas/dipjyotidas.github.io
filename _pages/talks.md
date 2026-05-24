@@ -10,8 +10,9 @@ nav_order: 3
 ## Conference Speaking
 
 ### AIM 2026 — San Francisco
+
 **Session Chair and Speaker**
-*Topic: Production-scale Agentic AI Systems in the Enterprise*
+_Topic: Production-scale Agentic AI Systems in the Enterprise_
 
 <div class="video-container">
   <iframe width="560" height="315"
@@ -25,7 +26,8 @@ nav_order: 3
 ---
 
 ### Ai4 2021 — Speaker
-*Topic: AI/ML in Enterprise*
+
+_Topic: AI/ML in Enterprise_
 
 <div class="video-container">
   <iframe width="560" height="315"
