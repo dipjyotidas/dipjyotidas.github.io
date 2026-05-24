@@ -44,7 +44,7 @@ Climate risk analytics startup. Delivered Resilience and Business Interruption s
 **Mar 2019 – Nov 2021**
 
 - Built time-series forecasting models (LSTM, CNN1D, SARIMA) for operational planning
-- Developed Gaussian Mixture Model to recommend commercial properties for Energy Efficiency programs; estimated impact $8–10M/year
+- Developed Gaussian Mixture Model to recommend commercial properties for Energy Efficiency programs; estimated impact $8-10M/year
 - Built Risk Propensity ML model to score customers by delinquency likelihood; estimated impact $5.1M/year
 
 ---

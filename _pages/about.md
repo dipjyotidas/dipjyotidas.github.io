@@ -6,7 +6,8 @@ subtitle: >
   Generative AI Architect · 13+ Years in AI/ML/GenAI · Charlotte, NC
   <br>
   <a href="https://www.linkedin.com/in/dipjyotidas/">LinkedIn</a> ·
-  <a href="https://github.com/dipjyotidas">GitHub</a>
+  <a href="https://github.com/dipjyotidas">GitHub</a> ·
+  <a href="/assets/pdf/Dipjyoti_Das_Resume_May2026_v4.pdf" download>Resume (PDF)</a>
 
 profile:
   align: right
@@ -23,9 +24,7 @@ announcements:
   enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
 AI Architect with 13+ years delivering production AI/ML/GenAI systems
@@ -51,7 +50,7 @@ human-in-the-loop review. Integrated eligibility and Prior Authorization APIs to
 ### Traditional AI/ML — Proven at Scale
 
 - **$240M incremental annual revenue** — Propensity model for annuity product targeting of Financial Advisors at Brighthouse Financial, deployed to SAP cloud with PySpark pipelines.
-- **$5.1M–$10M/year in savings** — Risk Propensity and Energy Efficiency recommendation models at Duke Energy for business market team.
+- **$5.1M-$10M/year in savings** — Risk Propensity and Energy Efficiency recommendation models at Duke Energy for business market team.
 - **$800K/year saved** — Automated time-series forecasting at R+L Carriers for sales operations.
 - **30M properties scored** — Resilience and Business Interruption analytics at One Concern, integrated into Swiss RE CatNet and Willis Tower Watson globally.
 
