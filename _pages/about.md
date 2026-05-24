@@ -24,9 +24,7 @@ announcements:
   enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
 Generative AI Architect with 13+ years delivering production AI/ML systems
