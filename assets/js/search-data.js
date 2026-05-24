@@ -113,7 +113,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/dipjyoti_das_cv.pdf", "_blank");
+          window.open("/assets/pdf/Dipjyoti_Das_Resume_May2026_v4.pdf", "_blank");
         },
       },{
         id: 'social-email',
