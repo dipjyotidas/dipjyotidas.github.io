@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-experience",
           title: "experience",
-          description: "13+ years of AI/ML across enterprise and startup environments",
+          description: "13+ years of AI/ML/GenAI across enterprise and startup environments",
           section: "Navigation",
           handler: () => {
             window.location.href = "/experience/";
