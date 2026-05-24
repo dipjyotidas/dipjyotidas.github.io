@@ -193,4 +193,14 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
+<hr>
+
+<div class="reading-list">
+  <h2>What I'm Reading / Exploring</h2>
+  <p>Interesting work I'm following in the AI space:</p>
+  <ul>
+    <li><strong><a href="https://github.com/karpathy/autoresearch" target="_blank">Autoresearch — Andrej Karpathy</a></strong> — AutoResearch is an open-source tool that runs ML experiments overnight, keeps only the improvements, and hands you a git history of validated results by morning.</li>
+  </ul>
+</div>
+
 </div>

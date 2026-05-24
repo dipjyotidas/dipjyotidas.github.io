@@ -50,7 +50,7 @@ human-in-the-loop review. Integrated eligibility and Prior Authorization APIs to
 ### Traditional AI/ML — Proven at Scale
 
 - **$240M incremental annual revenue** — Propensity model for annuity product targeting of Financial Advisors at Brighthouse Financial, deployed to SAP cloud with PySpark pipelines.
-- **$5.1M - $10M/year in savings** — Risk Propensity and Energy Efficiency recommendation models at Duke Energy for business market team.
+- **$5-$10M/year in savings** — Risk Propensity and Energy Efficiency recommendation models at Duke Energy for business market team.
 - **$800K/year saved** — Automated time-series forecasting at R+L Carriers for sales operations.
 - **30M properties scored** — Resilience and Business Interruption analytics at One Concern, integrated into Swiss RE CatNet and Willis Tower Watson globally.
 
@@ -59,3 +59,9 @@ I work across the full AI delivery lifecycle — hands-on architecture and codin
 I am passionate about moving AI from prototype to production — designing systems that are robust, observable, and actually useful in the real world.
 
 **Areas of expertise:** Agentic AI · RAG systems · LLMOps · Generative AI Architecture · MLOps · · Python · LangGraph · LangChain · Cloud (AWS, Azure, GCP) · Kubernetes · Serverless
+
+---
+
+### Let's Connect
+
+If you have any questions about Gen AI, Agentic AI or Machine Learning, or want to exchange ideas, feel free to [reach out](mailto:dipjyoti@gmail.com).
