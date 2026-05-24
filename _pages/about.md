@@ -5,9 +5,9 @@ permalink: /
 subtitle: >
   Generative AI Architect · 13+ Years in AI/ML/GenAI · Charlotte, NC
   <br>
-  <a href="https://www.linkedin.com/in/dipjyotidas/">LinkedIn</a> ·
-  <a href="https://github.com/dipjyotidas">GitHub</a> ·
-  <a href="/assets/pdf/Dipjyoti_Das_Resume_May2026_v4.pdf" download>Resume (PDF)</a>
+  <a href="https://www.linkedin.com/in/dipjyotidas/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://github.com/dipjyotidas" target="_blank" rel="noopener noreferrer">GitHub</a> ·
+  <a href="/assets/pdf/Dipjyoti_Das_Resume_May2026_v4.pdf" target="_blank" rel="noopener noreferrer">Resume (PDF)</a>
 
 profile:
   align: right
