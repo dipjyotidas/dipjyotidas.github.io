@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Work Experience
-
 ### Gen AI Architect — Ascendion, Charlotte NC
 
 **Oct 2025 – Present**
