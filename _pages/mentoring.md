@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /community/
-title: community
+title: Community
 description: Mentoring, judging, and giving back to the AI/ML community
 nav: true
 nav_order: 4

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
+title: Experience
 description: 13+ years of AI/ML/GenAI across enterprise and startup environments
 nav: true
 nav_order: 2

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Generative AI Architect · 13+ Years in AI/ML/GenAI · Charlotte, NC

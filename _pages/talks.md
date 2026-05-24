@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /talks/
-title: speaking
+title: Speaking
 description: Conference talks and session leadership on production AI systems
 nav: true
 nav_order: 3
 ---
-
-## Conference Speaking
 
 ### AIM 2026 — San Francisco
 
